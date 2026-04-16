@@ -195,7 +195,7 @@ public class Company
         }
         else
         {
-            if(employees.containsKey(id))
+            if(employees.containsKey(id) == false)
             {
                 logger.log(Level.INFO, String.format("Nobody found with id: %s", id));
             }
