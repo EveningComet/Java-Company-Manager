@@ -1,5 +1,3 @@
-package org.eveningcomet.simplejavacompanymanager;
-
 import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Iterator;

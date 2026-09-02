@@ -1,5 +1,3 @@
-package org.eveningcomet.simplejavacompanymanager;
-
 /**
  * Represents an employee in a business.
  */
